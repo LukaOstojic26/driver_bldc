@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "driver_dipl.kicad_prl",
+    "filename": "driver_bldc.kicad_prl",
     "version": 3
   },
   "project": {
